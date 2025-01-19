@@ -9,14 +9,18 @@
 </style>
 <body>
 
-<div class="card">
-    <div class="card-body">
+<div class="container">
 
-        <h1>Learning VSCode & GitHub</h1>
-        <h2>This is my first time trying to actually build and maintain a repository on GitHub and I am very much looking forward
-            to learning how to keep our auction platform properly maintained and controlled with different versions.</h2>
+    <div class="card">
+        <div class="card-body">
 
+            <h1>Learning VSCode & GitHub - PHP</h1>
+            <h2>This is my first time trying to actually build and maintain a repository on GitHub and I am very much looking forward
+                to learning how to keep our auction platform properly maintained and controlled with different versions.</h2>
+
+        </div>
     </div>
+
 </div>
 
 
